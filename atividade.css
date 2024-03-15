@@ -72,6 +72,9 @@ h1{
 .flex img{
     max-width: 100px;
 }
+.flex div img{
+    font-size: 50px;
+}
 .flex p{
     font-size: 15px;
     text-align: left;
@@ -83,25 +86,6 @@ h1{
     color: white;
     padding: 45px;
 }
-
-/*footer{
-    background-color: #ffffff;
-    padding: 40px;
-}
-
-.rodape li a{
-    text-decoration: none;
-    color: black;
-    background-color: #7fc3f0;
-    padding: 5px;
-    border-radius: 5px;
-}
- .rodape{
-    display: flex;
-    justify-content: space-between;
-    list-style: none;
-    text-align: right;
- } */
 
  .rodape{
     padding: 30px;
@@ -136,7 +120,6 @@ h1{
 }
 
 .icons i{
-    background-color: #7fc3f0;
     padding: 5px;
     color: white;
 }
