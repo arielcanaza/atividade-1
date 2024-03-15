@@ -4,6 +4,12 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.h1{
+    margin-right: auto;
+    margin-top: auto;
+    font-size: 50px ;
+}
+
 .header{
     background-color: #00acee;
     align-items: center;
@@ -48,7 +54,7 @@
     color: black;
     transition: 0.8s;
 }
-h1{
+h2{
     color:  #00acee;
     text-align: center;
     margin-bottom: 20px;
@@ -70,10 +76,12 @@ h1{
 }
  
 .flex img{
-    max-width: 100px;
+    max-width: 200px;
+    margin-right: 40px;
 }
 .flex div img{
     font-size: 50px;
+    
 }
 .flex p{
     font-size: 15px;
@@ -84,11 +92,12 @@ h1{
 .descricao{
     background-color: #3da2ca;
     color: white;
-    padding: 45px;
+    padding: 90px;
+    font-size: 20px;
 }
 
  .rodape{
-    padding: 30px;
+    padding: 70px;
     margin: 5px;
     background-color: #00acee;
     display: flex;
@@ -128,8 +137,6 @@ ul li a:hover{
     color: black;
     transition: 0,8s;
 }
-
-
 
 
 
